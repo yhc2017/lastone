@@ -34,4 +34,16 @@
     <string name="register_success">注册成功！</string>
 
     <string name="erro_info">载入信息失败！</string>
+
+    <!--title-->
+    <string name="user_message">我</string>
+    <string name="user_pic">修改头像</string>
+    <string name="infoEmpty">手机号和密码不能为空！</string>
+    <string name="newNameEmpty">请输入新昵称</string>
+    <string name="modify_error">修改失败</string>
+    <string name="modify_succeed">信息修改成功！</string>
+    <string name="oldPwdErro">旧密码输入错误！</string>
+    <string name="newPwdEmpty">密码不能为空！</string>
+    <string name="surePwdErro">前后密码不正确！</string>
+    <string name="RegInfoNotFull">注册信息不完整！</string>
 </resources>
