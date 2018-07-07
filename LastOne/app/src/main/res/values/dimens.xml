@@ -1,3 +1,14 @@
 <resources>
     <dimen name="fab_margin">16dp</dimen>
+    <!--login.xml-->
+    <dimen name="toolbar_heigh">230dp</dimen>
+    <dimen name="toolbar_content">37dp</dimen>
+    <dimen name="toolbar_content_margin">5dp</dimen>
+    <dimen name="toolbar_content_textsize">18dp</dimen>
+
+    <dimen name="content">37dp</dimen>
+    <dimen name="content_margin_hieght">10dp</dimen>
+    <dimen name="input_margin_hieght">37dp</dimen>
+
+    <dimen name="content_textsize_small">18dp</dimen>
 </resources>
